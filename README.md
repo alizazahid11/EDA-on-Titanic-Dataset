@@ -1,7 +1,5 @@
 
 
----
-
 # Titanic Survival Analysis
 
 This project analyzes the Titanic dataset to explore factors that influenced survival rates. It involves data exploration, cleaning, preprocessing, and exploratory data analysis (EDA) to uncover patterns and trends related to survival.
