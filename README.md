@@ -6,22 +6,21 @@ This project analyzes the Titanic dataset to explore factors that influenced sur
 
 ## Table of Contents
 1. [Introduction](#introduction)  
-2. [Features](#features)  
-3. [Installation](#installation)  
-4. [Usage](#usage)  
-5. [Dataset Overview](#dataset-overview)  
-6. [Tasks Performed](#tasks-performed)  
-7. [Results and Visualizations](#results-and-visualizations)  
-8. [Contributing](#contributing)  
-9. [License](#license)
+2. [Features](#features)   
+3. [Usage](#usage)  
+4. [Dataset Overview](#dataset-overview)  
+5. [Tasks Performed](#tasks-performed)  
+6. [Results and Visualizations](#results-and-visualizations)  
+7. [Contributing](#contributing)  
+8. [License](#license)
 
----
+
 
 ## Introduction
 
 The Titanic disaster is one of the most infamous shipwrecks in history. This project aims to analyze the Titanic dataset to identify trends and factors that affected passenger survival. By exploring and preprocessing the dataset, we can extract meaningful insights and prepare the data for predictive modeling.
 
----
+
 
 ## Features
 
@@ -41,22 +40,8 @@ The Titanic disaster is one of the most infamous shipwrecks in history. This pro
 - **Visualizations**:  
   - Generate clear and insightful plots to enhance understanding of the dataset.
 
----
 
-## Installation
 
-1. Clone this repository to your local machine:
-   ```bash
-   git clone <repository_url>
-   cd titanic-survival-analysis
-   ```
-
-2. Install the required Python libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
----
 
 ## Usage
 
@@ -64,7 +49,7 @@ The Titanic disaster is one of the most infamous shipwrecks in history. This pro
 2. Run the code step-by-step to explore, preprocess, and analyze the dataset.  
 3. Modify the code to test new hypotheses or visualize additional trends.  
 
----
+
 
 ## Dataset Overview
 
@@ -80,7 +65,7 @@ Key features include:
 - **Fare**: Ticket fare.  
 - **Embarked**: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton).  
 
----
+
 
 ## Tasks Performed
 
@@ -101,7 +86,7 @@ Key features include:
   - Age: Children had better survival rates compared to adults.  
 - Created visualizations to highlight these trends.
 
----
+
 
 ## Results and Visualizations
 
@@ -117,17 +102,17 @@ Key features include:
 
 Sample visualizations can be found in the repository.
 
----
+
 
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvement or new analysis techniques, feel free to open an issue or submit a pull request.
 
----
+
 
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
----
+
 
